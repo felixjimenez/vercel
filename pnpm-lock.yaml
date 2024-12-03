@@ -506,7 +506,7 @@ importers:
         specifier: 2.0.18
         version: link:../../internals/types
       '@vercel/client':
-        specifier: 13.4.19
+        specifier: 13.4.20
         version: link:../client
       '@vercel/error-utils':
         specifier: 2.0.3
